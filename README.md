@@ -6,4 +6,4 @@ Features:
 1. Canvas
 2. Mouse Events
 
-View [live demo](jquery-simple-drawing-board.jinn.surge.sh).
+View [live demo](http://jquery-simple-drawing-board.jinn.surge.sh).
